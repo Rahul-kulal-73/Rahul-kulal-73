@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 💬 Ask me about <b> ** HTML ,CSS ,Javascript ,Node , React , Tailwind css , c++ ,c**</b>
+- 💬 Ask me about <b> HTML ,CSS ,Javascript ,Node , React , Tailwind css , c++ ,c</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
